@@ -1,0 +1,41 @@
+Nvidia 
+NVDA
+ has solidified its position as a leader in the technology industry, especially within the semiconductor space. No other semiconductor company has experienced growth as explosive as Nvidia’s. Last year, it briefly surpassed Apple 
+AAPL
+ by reaching a $3 trillion market capitalization.
+
+With the onset of the artificial intelligence (AI) boom, Nvidia’s stock has skyrocketed by 480% over the past three years, far outpacing the broader market’s 34% gain. With its current market cap of $3.34 trillion, Nvidia has the potential to reach a $10 trillion valuation within the next decade by leveraging its strengths in critical sectors and seizing new opportunities. Let’s dig into how.
+A graph on a white backgroundAI-generated content may be incorrect.
+
+What Has Made Nvidia the Giant It Is Today?
+
+Nvidia, once primarily recognized for its graphics processing units (GPUs) used in gaming, has evolved into much more than a chipmaker. Its expansive portfolio, spanning AI infrastructure and enterprise software, ensures its continued leadership in these fast-growing sectors. Nvidia’s edge in the market stems from its groundbreaking technological innovations, especially its leadership in AI acceleration. By focusing on AI and machine learning early on and excelling in behind-the-scenes development, Nvidia has maintained a significant lead over competitors, setting the foundation for long-term dominance.
+
+A key driver of Nvidia’s success is its CUDA software ecosystem, which has attracted over 5.5 million developers globally. CUDA creates a formidable competitive moat, as its widespread adoption leads to high switching costs for customers, making it challenging for rivals to lure them away. CEO Jensen Huang stressed the importance of upgrading global data centers to meet the increasing demands of machine learning and generative AI. This transformation is critical for ushering in a new era of computing that could drive a $1 trillion overhaul of global data centers in the coming years— a major growth opportunity for Nvidia.
+
+Nvidia’s Financials Are Soaring and Could Continue to Do So
+
+Nvidia delivered outstanding growth across all three quarters of fiscal 2025. In the third quarter, total revenue surged 94% year-over-year, reaching $35.1 billion. Data center revenue saw a remarkable 112% increase to $30.8 billion, fueled by the success of its high-performance H200 chip. The company’s profitability remained robust, with adjusted earnings climbing 103% year-over-year to $0.81 per share in Q3. Additionally, Gaming revenue rose by 15%, Professional Visualization revenue grew by 17%, and Automotive and Robotics revenue jumped 72% compared to the same quarter last year.
+
+CFO Colette Kress believes enterprise AI and industrial AI will dominate the next phase of AI. Nvidia’s AI Enterprise revenue is projected to double in fiscal 2025. Demand for Nvidia’s Blackwell chips is rapidly increasing, with production shipments expected to begin in Q4 of fiscal 2025 and scale up significantly in fiscal 2026. Management is confident that demand for Blackwell will exceed supply throughout fiscal 2026. Leading tech companies like Dell 
+DELL
+, Oracle 
+ORCL
+, and Google 
+GOOGL
+ have already incorporated Blackwell into their systems. With a combination of cutting-edge hardware, powerful software, and expertise in AI, Nvidia is well-positioned to sustain its leadership in the technology sector.
+
+Nvidia’s strategy for fiscal 2026 will become clearer when it announces its fourth-quarter earnings next month. The company anticipates strong demand for Hopper products and the initial ramp-up of Blackwell chips to drive fourth-quarter revenue to approximately $37.5 billion. Analysts expect earnings per share for fiscal 2025 to increase 135% to $2.35 and to further increase 43% to $3.98 in fiscal 2026. 
+
+What Is Wall Street’s Take on Nvidia Stock?
+
+Overall, on Wall Street, Nvidia stock remains a “Strong Buy.” Out of the 43 analysts covering the stock, 36 have a “Strong Buy” recommendation, three say it’s a “Moderate Buy,” and four rate it a “Hold.” The average target price of $176.55 suggests Nvidia stock can climb by 30.9% from current levels. Plus, the high price estimate of $220 implies upside potential of 63.1% over the next 12 months.
+A screenshot of a computerAI-generated content may be incorrect.
+
+The Verdict
+
+For Nvidia to achieve a $10 trillion valuation, it must excel in scaling its AI, data center, autonomous vehicle, and edge computing businesses while maintaining its edge in innovation. Beth Kindig, the lead tech analyst at I/O Fund, predicts Nvidia can reach that mark as early as 2030. By harnessing transformative technologies and tapping into emerging markets, Nvidia could position itself as one of the most valuable companies in history.
+
+Currently, Nvidia’s stock trades at 30 times its projected 2026 earnings. While the company’s strong market position and long-term growth prospects are clear, the current valuation may not appeal to all investors. Nvidia remains an attractive buy-and-hold option for long-term investors aiming to capitalize on its potential to hit a $10 trillion market cap. However, more cautious investors may choose to wait for a better entry point.
+
+On the date of publication, Sushree Mohanty did not have (either directly or indirectly) positions in any of the securities mentioned in this article. All information and data in this article is solely for informational purposes. For more information please view the Barchart Disclosure Policy here.
