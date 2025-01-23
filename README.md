@@ -1,1 +1,2 @@
 # Atlas
+(open to collaborations)
